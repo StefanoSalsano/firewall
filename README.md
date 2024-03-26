@@ -1,6 +1,18 @@
 # firewall
 ###### *DISCLAIMER: The following code is only for Ubuntu.*
 
+
+###internal documentation
+
+https://docs.google.com/document/d/11N1KkFoqi_BN22M9J-StlrT6YTYAuiSijnZzfpA8Fg4/edit
+
+fw.py is not used
+
+print-accept.py is used
+
+
+
+
 ### Features
 1) Block IP addresses
 2) Block access to certain ports 
